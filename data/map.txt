@@ -9,7 +9,13 @@ planet "Donya"
 planet "New Gettysburg"
 	attributes uninhabited
 	landscape land/water22
-	description `New Gettysburg is called as such because of the experiences of the first settlers. When New Gettysburg was initially being colonized, the explorers found wild beasts that looked like rocks. In attempting to scale cliffs in order to reach these rocks, many settlers were killed by small boulders tossed down on their heads. Eventually colonization attempts were given up, but New Gettysburg keeps the name the settlers called it.`
+	description `New Gettysburg is called as such because of the experiences of the first settlers. When New Gettysburg was initially being colonized, the explorers found wild beasts that looked like rocks. In attempting to scale cliffs in order to reach these rocks, many settlers were killed by small boulders tossed down on their heads. Eventually colonization attempts were given up, but New Gettysburg still bears the name the settlers gave it.`
+	government Uninhabited
+
+planet "Zweig"
+	attributes uninhabited
+	landscape land/water22
+	description ``
 	government Uninhabited
 
 mission "More Planets: Add Planets"
