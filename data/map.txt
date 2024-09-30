@@ -29,7 +29,7 @@ mission "More Planets: Add Planets"
 	minor
 	invisible
 	to offer
-		random < 100
+		random < 99
 	on offer
 		event "more planets plugin installed" 0
 		fail
