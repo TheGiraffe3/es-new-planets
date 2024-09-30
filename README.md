@@ -1,2 +1,3 @@
 # es-new-planets
-More planets for Endless Sky.
+
+More uninhabited planets for [Endless Sky](https://github.com/endless-sky/endless-sky).
