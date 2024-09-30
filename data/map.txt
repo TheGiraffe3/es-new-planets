@@ -26,3 +26,20 @@ event "more planets plugin installed"
 			sprite planet/dust4
 			distance 2197.72
 			period 1942.72
+	system Zubenelgenubi
+		remove object
+			sprite planet/cloud0
+			distance 1318.13
+			period 606.856
+			object
+				sprite planet/rock14
+				distance 165
+				period 24.185
+		add object Donya
+			sprite planet/cloud0
+			distance 1318.13
+			period 606.856
+			object
+				sprite planet/rock14
+				distance 165
+				period 24.185
