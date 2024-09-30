@@ -13,9 +13,9 @@ planet "New Gettysburg"
 	government Uninhabited
 
 planet "Zweig"
-	attributes uninhabited
-	landscape land/water22
-	description ``
+	attributes abandoned uninhabited
+	landscape land/city26
+	description `Zweig was inhabited until just a short while ago, when terrorists took over. When news of this reached other planets, the Navy sent a rescue fleet to save the inhabitants. The terrorists were arrested, and everybody on the planet left for a different, more peaceful, world. Nobody is left now, but the cities still stand.`
 	government Uninhabited
 
 mission "More Planets: Add Planets"
@@ -38,6 +38,15 @@ event "more planets plugin installed"
 			sprite planet/dust4
 			distance 2197.72
 			period 1942.72
+	system Mirzam
+		remove object
+			sprite planet/io
+			distance 1523.47
+			period 723.767
+		add object Zweig
+			sprite planet/io
+			distance 1523.47
+			period 723.767
 	system Zubenelgenubi
 		remove object
 			sprite planet/cloud0
