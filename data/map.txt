@@ -44,6 +44,32 @@ event "more planets plugin installed"
 			sprite planet/dust4
 			distance 2197.72
 			period 1942.72
+
+	system Alnilam
+		remove object
+			sprite planet/gas7-b
+			distance 966.7
+			period 290.312
+			object
+				sprite planet/miranda-b
+				distance 220
+				period 10.5884
+			object
+				sprite planet/luna
+				distance 305
+				period 17.2841
+		add object "Ealam"
+			sprite planet/gas7-b
+			distance 966.7
+			period 290.312
+			object
+				sprite planet/miranda-b
+				distance 220
+				period 10.5884
+			object
+				sprite planet/luna
+				distance 305
+				period 17.2841
 	system Mirzam
 		remove object
 			sprite planet/io
