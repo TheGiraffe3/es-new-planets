@@ -1,4 +1,28 @@
+# Copyright (c) 2024 by Loymdayddaud under the CC-BY-SA-4.0 license.
+
 planet "New Gettysburg"
 	attributes uninhabited
 	landscape land/water22
 	description `New Gettysburg is called as such because of the experiences of the first settlers. When New Gettysburg was initially being colonized, the explorers found wild beasts that looked like rocks. In attempting to scale cliffs in order to reach these rocks, many settlers were killed by small boulders tossed down on their heads. Eventually colonization attempts were given up, but New Gettysburg keeps the name the settlers called it.`
+	government Uninhabited
+
+mission "More Planets: Add Planets"
+	landing
+	minor
+	invisible
+	to offer
+		random < 100
+	on offer
+		event "more planets plugin installed" 0
+		fail
+
+event "more planets plugin installed"
+	system Alioth
+		remove object
+			sprite planet/dust4
+			distance 2197.72
+			period 1942.72
+		add object "New Gettysburg"
+			sprite planet/dust4
+			distance 2197.72
+			period 1942.72
