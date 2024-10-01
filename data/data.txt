@@ -3,30 +3,30 @@
 planet "Donya"
 	attributes uninhabited
 	landscape land/fields29
-	description `Donya is a lush green world much like Earth, filled with vegetation and growing matter. It even has clouds and a blue sky, making it idyllic to the eyes of settlers who had been experiencing unearthly conditions on other planets. However, it remains unsettled, because the clouds release sheets of poisonous acid on a regular timeframe. Between these moments of unrest the planet is completely peaceful. The trees and grasses planted by the initial wave of colonists seem to have adjusted to the terrible rain quite well, unlike their masters, who left at the first opportunity.`
+	description `Donya is a lush green world much like Earth, filled with vegetation and growing matter. It even has clouds and a blue sky, making it idyllic to the eyes of settlers, who mostly had been experiencing unearthly conditions on other planets. However, it remains unsettled, because the clouds release sheets of poisonous acid on a regular timeframe. Between these moments of unrest the planet is completely peaceful. The trees and grasses planted by the initial wave of colonists seem to have adjusted to the terrible rain quite well, unlike their masters, who left at the first opportunity.`
 	government Uninhabited
 
 planet "Ealam"
 	attributes uninhabited "requires: gaslining"
 	landscape land/clouds9
 	description `As far as gas giants go, Ealam is somewhat sparse. There do not seem to be the storms prevalent on other worlds categorized like this one, and in fact you can see for a surprising distance. Blue-tinted sky is the only thing that stops you from being able to see right through the outer rim of the planet.`
-	description `It is strange that from the outside, this gaseous body seems to have a brown hue.`
+	description `	It is strange that from the outside, this gaseous body seems to have a brown hue.`
 	government Uninhabited
 
 planet "New Gettysburg"
 	attributes uninhabited
 	landscape land/water22
 	description `New Gettysburg - a peaceful beachside planet, with trees on the shores and a wonderfully clear liquid element. Or so the first settlers thought. However, they were unable to land on the high mesas, and when they attempted to live in the forests disaster struck.`
-	description `The trees on New Gettysburg have a wonderful talent for cracking and falling to the ground at the slightest touch. The settlers, who had to build among the trees, decided that this battle was too hard, and left, after each signed a vow never to come back.`
+	description `	The trees on New Gettysburg have a wonderful talent for cracking and falling to the ground at the slightest touch. The settlers, who had to build among the trees, decided that this battle was too hard, and left, after each signed a vow never to come back.`
 	government Uninhabited
 
 planet "Zweig"
 	attributes abandoned uninhabited
 	landscape land/city26
 	description `The colonization of Zweig was long and hard, but it produced results like no-one had ever heard of before. Cities prospered, and anyone who came to Zweig was sure to get rich - until the day the terrorists took over. The Navy was called, and when the terrorists were arrested the Navy gave permission for people to come back and resettle.`
-	description `Nobody ever did. The general concern was more terrorists. But the governments of certain planets also had wishes for new millionares to stay on their soil, and made no effort to rehabilitate any settler.`
+	description `	Nobody ever did. The general concern was more terrorists. But the governments of certain planets also had wishes for new millionares to stay on their soil, and made no effort to rehabilitate any settler.`
 	description ``
-	description `Zweig remains an abandoned planet to this day.`
+	description `	Zweig remains an abandoned planet to this day.`
 	government Uninhabited
 
 mission "More Planets: Add Planets"
