@@ -9,7 +9,8 @@ planet "Donya"
 planet "Ealam"
 	attributes uninhabited "requires: gaslining"
 	landscape land/clouds9
-	description `As far as gas giants go, this one is somewhat sparse. Hardly any gas is contained in the interior, and it is mostly just empty space. A few white clouds are floating in the void, but in reality blue-tinted nothingness is the only object here.`
+	description `As far as gas giants go, Ealam is somewhat sparse. There do not seem to be the storms prevalent on other worlds categorized like this one, and in fact you can see for a surprising distance. Blue-tinted sky is the only thing that stops you from being able to see right through the outer rim of the planet.`
+	description `It is strange that from the outside, this gaseous body seems to have a brown hue.`
 	government Uninhabited
 
 planet "New Gettysburg"
