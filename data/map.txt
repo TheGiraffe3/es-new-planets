@@ -7,7 +7,7 @@ planet "Donya"
 	government Uninhabited
 
 planet "Ealam"
-	attributes uninhabited
+	attributes uninhabited "requires: gaslining"
 	landscape land/clouds9
 	description `As far as gas giants go, this one is somewhat sparse. Hardly any gas is contained in the interior, and it is mostly just empty space. A few white clouds are floating in the void, but in reality blue-tinted nothingness is the only object here.`
 	government Uninhabited
@@ -22,7 +22,10 @@ planet "New Gettysburg"
 planet "Zweig"
 	attributes abandoned uninhabited
 	landscape land/city26
-	description `Zweig was inhabited until just a short while ago, when terrorists took over. When news of this reached other planets, the Navy sent a rescue fleet to save the inhabitants. The terrorists were arrested, and everybody on the planet left for a different, more peaceful, world. Nobody is left now, but the cities still stand.`
+	description `The colonization of Zweig was long and hard, but it produced results like no-one had ever heard of before. Cities prospered, and anyone who came to Zweig was sure to get rich - until the day the terrorists took over. The Navy was called, and when the terrorists were arrested the Navy gave permission for people to come back and resettle.`
+	description `Nobody ever did. The general concern was more terrorists. But the governments of certain planets also had wishes for new millionares to stay on their soil, and made no effort to rehabilitate any settler.`
+	description ``
+	description `Zweig remains an abandoned planet to this day.`
 	government Uninhabited
 
 mission "More Planets: Add Planets"
