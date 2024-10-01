@@ -15,7 +15,8 @@ planet "Ealam"
 planet "New Gettysburg"
 	attributes uninhabited
 	landscape land/water22
-	description `New Gettysburg is called as such because of the experiences of the first settlers. When New Gettysburg was initially being colonized, the explorers found wild beasts that looked like rocks. In attempting to scale cliffs in order to reach these rocks, many settlers were killed by small boulders tossed down on their heads. Eventually colonization attempts were given up, but New Gettysburg still bears the name the settlers gave it.`
+	description `New Gettysburg - a peaceful beachside planet, with trees on the shores and a wonderfully clear liquid element. Or so the first settlers thought. However, they were unable to land on the high mesas, and when they attempted to live in the forests disaster struck.`
+	description `The trees on New Gettysburg have a wonderful talent for cracking and falling to the ground at the slightest touch. The settlers, who had to build among the trees, decided that this battle was too hard, and left, after each signed a vow never to come back.`
 	government Uninhabited
 
 planet "Zweig"
